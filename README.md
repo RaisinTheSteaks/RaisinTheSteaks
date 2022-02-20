@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RaisinTheSteaks
-- 👀 I’m interested in Games Programming. 
-- 🌱 I’m currently learning the ins and outs of the Unity Engine and the best pracices for games development
-- 💞️ I’m looking to collaborate on C# and Unity project
+- 👋 Hi, I’m @Joshua-Corcoran
+- 👀 I’m interested in Games Programming, programming using C# and C++. 
+- 🌱 I’m currently learning the ins and outs of the Unity Engine and script integrations with other platforms/
+
 
 
 <!---
